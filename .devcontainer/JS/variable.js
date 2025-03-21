@@ -8,6 +8,7 @@ accountPassword = "1004"
 accountCity = "Bengaluru"
 
 //avoid using of var
+//because of issue in block scope and functional scope
 
 console.log(accountEmail)
 console.log(accountCity)
